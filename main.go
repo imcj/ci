@@ -1,7 +1,7 @@
 package main
 
 import (
-	env_setup "github.com/aos-stack/ci/env"
+	env_setup "github.com/imcj/ci/env"
 	"github.com/aos-stack/env"
 	"fmt"
 )
