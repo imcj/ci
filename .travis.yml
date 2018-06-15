@@ -32,4 +32,4 @@ notifications:
 #   - go get -v -t ./
 
 script:
-  - go test -v ./env
+  - godep test -v ./env
